@@ -1,4 +1,15 @@
-# monitoring-rt15
+<thead class="sticky-thead">
+    <tr>
+        <th class="text-center">No</th>
+        <th>Kode Iden</th>
+        <th>Nama Kel</th>
+        <th>Alamat Pr</th>
+        <th>NIB</th>
+        <th>Skala Usaha</th>
+        <th>Status</th>
+        <th class="text-center">Selesai</th>
+    </tr>
+</thead># monitoring-rt15
 <!DOCTYPE html>
 <html lang="id">
 <head>
